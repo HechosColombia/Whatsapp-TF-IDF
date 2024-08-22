@@ -1,16 +1,20 @@
 # Whatsapp-TF-IDF
 # WhatsApp Chat Analysis and Recommendation System
 
-## Introduction
+## Introduction / Introducción
 
 This project provides a detailed analysis and recommendation system for WhatsApp chats. The system is implemented in Python and is divided into three key steps:
+Este proyecto proporciona un sistema detallado de análisis y recomendación para los chats de WhatsApp. El sistema está implementado en Python y se divide en tres pasos clave:
 
 1. **Processing and Cleaning WhatsApp Chat Messages**
 2. **Recommending Similar Senders Based on Message Similarity**
 3. **Explaining Recommendations by Analyzing Common Words Between Senders**
+1. **Procesamiento y limpieza de mensajes de chat de WhatsApp**
+2. **Recomendar remitentes similares según la similitud del mensaje**
+3. **Explicar las recomendaciones analizando palabras comunes entre los remitentes**
 
 Each step is carefully designed to extract meaningful insights from raw chat data, allowing for personalized recommendations and deeper understanding of communication patterns.
-
+Cada paso está cuidadosamente diseñado para extraer información significativa de los datos sin procesar del chat, lo que permite recomendaciones personalizadas y una comprensión más profunda de los patrones de comunicación.
 ---
 
 ## Table of Contents
@@ -27,6 +31,21 @@ Each step is carefully designed to extract meaningful insights from raw chat dat
 4. [Usage Instructions](#usage-instructions)
 5. [Requirements](#requirements)
 6. [Author](#author)
+
+7. ## Tabla de contenido
+
+1. [Paso 1: Procesar mensajes de chat de WhatsApp](#paso-1-procesar-mensajes-de-chat-whatsapp)
+   - [Resumen](#resumen)
+   - [Explicación del código](#código-explicación)
+2. [Paso 2: Recomendación del remitente basada en la similitud del mensaje](#paso-2-recomendación-del-remitente-basada-en-la-similitud-del-mensaje)
+   - [Resumen](#resumen-1)
+   - [Explicación del código](#código-explicación-1)
+3. [Paso 3: Explicar las recomendaciones con palabras comunes](#paso-3-explicar-las-recomendaciones-con-palabras-comunes)
+   - [Resumen](#resumen-2)
+   - [Explicación del código](#código-explicación-2)
+4. [Instrucciones de uso](#instrucciones-de-uso)
+5. [Requisitos](#requisitos)
+6. [Autor](#autor)
 
 ---
 
