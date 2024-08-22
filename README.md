@@ -14,6 +14,7 @@ Este proyecto proporciona un sistema detallado de análisis y recomendación par
 3. **Explicar las recomendaciones analizando palabras comunes entre los remitentes**
 
 Each step is carefully designed to extract meaningful insights from raw chat data, allowing for personalized recommendations and deeper understanding of communication patterns.
+
 Cada paso está cuidadosamente diseñado para extraer información significativa de los datos sin procesar del chat, lo que permite recomendaciones personalizadas y una comprensión más profunda de los patrones de comunicación.
 ---
 
@@ -32,7 +33,7 @@ Cada paso está cuidadosamente diseñado para extraer información significativa
 5. [Requirements](#requirements)
 6. [Author](#author)
 
-7. ## Tabla de contenido
+## Tabla de contenido
 
 1. [Paso 1: Procesar mensajes de chat de WhatsApp](#paso-1-procesar-mensajes-de-chat-whatsapp)
    - [Resumen](#resumen)
