@@ -161,6 +161,8 @@ El paso final tiene como objetivo proporcionar una explicación detallada de por
 4. **Ejecutar el Paso 3**: Usa la función `explicar_recomendacion()` para entender las palabras comunes que llevaron a la recomendación.
 
 ---
+IF IT SAYS MULTIMEDIA OMITTED IT MEANS THERE IS SIMILARITY BECAUSE THEY BOTH SEND MANY FILES
+SI DICE MULTIMEDIA OMITIDO SIGNIFICA QUE HAY SIMILITUD DEBIDO A QUE AMBOS ENVIAN MUCHOS ARCHIVOS
 
 ## Requirements
 
