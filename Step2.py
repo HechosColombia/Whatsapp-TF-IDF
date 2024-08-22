@@ -25,7 +25,7 @@ def leer_archivo(file_path):
     current_mensaje = ''
 
     for line in lines:
-        line = line.strip()
+        line = line.strip().replace('<', '').replace('>', '')  # Eliminamos los símbolos < y >
         if not line:
             continue
         if ':' in line:
