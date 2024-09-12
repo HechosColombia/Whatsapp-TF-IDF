@@ -9,6 +9,7 @@ Este proyecto proporciona un sistema detallado de análisis y recomendación par
 1. **Processing and Cleaning WhatsApp Chat Messages**
 2. **Recommending Similar Senders Based on Message Similarity**
 3. **Explaining Recommendations by Analyzing Common Words Between Senders**
+   
 1. **Procesamiento y limpieza de mensajes de chat de WhatsApp**
 2. **Recomendar remitentes similares según la similitud del mensaje**
 3. **Explicar las recomendaciones analizando palabras comunes entre los remitentes**
